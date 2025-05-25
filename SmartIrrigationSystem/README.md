@@ -68,11 +68,10 @@ Le système combine :
 ## Auteur
 
 Youness Mchaar  
-[GitHub](https://github.com/yunesmchaar) | [LinkedIn](https://www.linkedin.com/in/youness-mchaar)
+[GitHub](https://github.com/yunesmchaar) | [LinkedIn](https://www.linkedin.com/in/mchaar-youness-730172310/)
 
 ---
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
-
+Ce projet est sous ingenieur d'etat genie informatique a SUPMTI
