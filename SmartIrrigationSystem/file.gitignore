@@ -1,0 +1,19 @@
+# Fichiers binaires Arduino
+*.bin
+*.elf
+*.hex
+
+# Fichiers de configuration Android Studio / Gradle
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers générés par l'IDE ou outils
+*.log
+
